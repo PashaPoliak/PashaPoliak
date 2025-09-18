@@ -1,10 +1,10 @@
 ### 👨🏻‍💻 Stats 🛠 Tech Stack
 
 <a href="https://github.com/PashaPoliak/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Lokankara&count_private=true&theme=tokyonight&showicons=true&show_icons=true&hide_border=false&count_private=true" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=PashaPoliak&count_private=true&theme=tokyonight&showicons=true&show_icons=true&hide_border=false&count_private=true" />
 </a>
 <a href="https://github.com/PashaPoliak/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Lokankara&langs_count=5&theme=tokyonight&size_weight=1&count_weight=1&card_width=343" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=PashaPoliak&langs_count=5&theme=tokyonight&size_weight=1&count_weight=1&card_width=343" />
 </a>
 
 [![]()]()
